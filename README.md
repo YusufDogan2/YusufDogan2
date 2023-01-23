@@ -59,7 +59,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/YusufDogan2" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -73,9 +73,8 @@
 ## Github Stats  
 <div align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=YusufDogan2" align="left" /></div>
 
-
 <br/>  
  
-<div align="center">
+<div align="left">
 <img src="https://programmerhumor.io/wp-content/uploads/2021/05/programmerhumor-io-ec1dedd323.jpg" align="center" height="500" width="600" />
 </div>  
