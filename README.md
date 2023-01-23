@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.w600.comps.canstockphoto.com/web-development-banner-concept-drawing_csp55381391.jpg" align="center" style="width: 50%" />
+<img src="./clg.PNG" align="center" style="width: 100%" />
 </div>  
   
 
