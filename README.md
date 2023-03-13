@@ -6,16 +6,16 @@
 ### <div align="center">I'm Yusuf Dogan, a full-time Frontend developer 👨‍💻 with some Backend knowledge 🔙</div>  
   
 
-- 🔭 I’m currently in education at SuperCode  
+- 🔭 I’m a graduate of a full stack retraining course
   
 
-- 🌱 I'm in the process of taking my skills React to a new level  
+- 🌱 I'm in the process of taking my skills React to a new level and learning Vue.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: In a relationship with Google!
+- ⚡ Fun fact: In a relationship with Google especially Stackoverflow 
   
   
 <br/>  
